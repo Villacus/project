@@ -33,16 +33,12 @@ nav ul li img :hover {
   background: #6c6c6c;
 }
 
-.kontaktua {
-  
-  margin-top: 200px;
-}
-
 footer {
   background: grey;
 }
 
 table {
+  margin-top: 200px;
   border: 2px solid;
   background-color: #d2d2d2;
   border-radius: 15px;
