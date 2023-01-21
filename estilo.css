@@ -75,4 +75,7 @@ input[type=submit]:hover {
   background: #0080e9;
 }
 
-
+img {
+  float: right;
+  position fixied
+}
