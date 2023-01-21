@@ -50,7 +50,7 @@ table {
 input[type=text], input[type=password] {
   width: 100%;
   padding: 8px 20px;
-  border: 2px solid grey;
+  border: 2px solid blue;
   box-sizing: border-box;
   border-radius: 4px;
 }
@@ -63,13 +63,13 @@ label {
 
 input[type=submit] {
   backgroun-color: #006cc5;
+  border-radius: 20px;
   color: white;
   padding: 8px 10px;
   margin: 8px 0px;
   border: solid;
   cursor: poiner;
   width 40%;
-  border-radius: 20px;
 }
 
 
