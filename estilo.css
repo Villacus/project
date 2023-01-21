@@ -14,10 +14,6 @@ nav ul {
   overflow: hidden; 
 }
 
-nav ul .hasi {
-  float: right;
-}
-
 nav ul li {
   float: left;
   font-family: Arial, sans-serif;
