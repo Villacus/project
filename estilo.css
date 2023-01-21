@@ -44,6 +44,7 @@ footer {
 table {
   border: 2px solid;
   background-color: #d2d2d2;
+  border-radius: 15px;
 }
 
 input[type=text], input[type=password] {
@@ -51,7 +52,9 @@ input[type=text], input[type=password] {
   padding: 8px 20px;
   border: 2px solid grey;
   box-sizing: border-box;
+  border-radius: 4px;
 }
+
 label {
   font-size: 14px;
   font-weight: bold;
@@ -59,13 +62,14 @@ label {
 }
 
 input[type=submit] {
-  backgroun-color: ;
+  backgroun-color: #006cc5;
   color: white;
   padding: 8px 10px;
   margin: 8px 0px;
   border: solid;
   cursor: poiner;
   width 40%;
+  border-radius: 20px;
 }
 
 
