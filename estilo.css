@@ -8,9 +8,12 @@ header {
   position: fixed;
 }
 
-
 footer {
   background: grey;
+}
+
+article {
+margin: 50px;  
 }
 
 nav {
