@@ -3,8 +3,7 @@ body {
 }
 
 table {
-  posion: fixed;
-  margin-top: 150px;
+  margin: auto;
   border: 2px solid;
   background-color: #d2d2d2;
   border-radius: 15px;
