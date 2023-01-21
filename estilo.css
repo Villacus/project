@@ -62,7 +62,7 @@ label {
 }
 
 input[type=submit] {
-  backgroun-color: #006cc5;
+  backgroun-color: blue;
   border-radius: 20px;
   color: white;
   padding: 8px 10px;
