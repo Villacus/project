@@ -2,6 +2,13 @@ body {
   margin: 0;
 }
 
+table {
+  margin-top: 150px;
+  border: 2px solid;
+  background-color: #d2d2d2;
+  border-radius: 15px;
+}
+
 header {
   margin-top: 0px;
   background: #6c6c6c;
@@ -19,7 +26,6 @@ nav ul {
   list-style: none;
   overflow: hidden; 
 }
-
 
 .eskubi {
   position: fixed;
@@ -49,13 +55,6 @@ nav ul li img :hover {
 
 footer {
   background: grey;
-}
-
-table {
-  padding-top: 150px;
-  border: 2px solid;
-  background-color: #d2d2d2;
-  border-radius: 15px;
 }
 
 input[type=text], input[type=password], input[type=email], textarea {
