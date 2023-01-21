@@ -64,37 +64,12 @@ label {
 }
 
 input[type=submit] {
-  backgroun-color: blue;
+  background-color: blue;
   border-radius: 20px;
   color: white;
   padding: 8px 10px;
   margin: 8px 0px;
-  border: solid blue;
+  border: solid #006cc5;
   cursor: poiner;
   width 40%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
