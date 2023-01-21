@@ -4,9 +4,7 @@ header {
   width: 100%;
   position: fixed;
 }
-.hasi {
-  float: right;
-}
+
 nav {
   float: left;
 }
@@ -33,6 +31,10 @@ nav ul li:hover {
 
 nav ul li img :hover {
   background: #6c6c6c;
+}
+
+.hasi {
+  float: right;
 }
 
 footer {
