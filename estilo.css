@@ -1,8 +1,16 @@
+body {
+margin: 0 auto;
+}
+
 header {
   background: rgba(0,0,0,0.7);
   width: 100%;
   position: fixed;
-  z-index: 100;
+}
+
+
+footer {
+  background-color:grey;
 }
 
 nav {
@@ -29,8 +37,6 @@ nav ul li:hover {
   background: #eca023;
 }
 
-body {
-margin: 0;
+nav ul li img :hover {
+  background: ;
 }
-
-footer {background-color:grey;}
