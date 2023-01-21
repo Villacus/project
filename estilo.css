@@ -5,10 +5,6 @@ header {
   position: fixed;
 }
 
-footer {
-  background: grey;
-}
-
 nav {
   float: left;
 }
@@ -36,3 +32,8 @@ nav ul li:hover {
 nav ul li img :hover {
   background: #6c6c6c;
 }
+
+footer {
+  background: grey;
+}
+
