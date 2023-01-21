@@ -33,6 +33,10 @@ nav ul li img :hover {
   background: #6c6c6c;
 }
 
+div.kontaktua {
+margin 50px;  
+}
+
 footer {
   background: grey;
 }
