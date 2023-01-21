@@ -38,7 +38,7 @@ footer {
 }
 
 table {
-  margin-top: 200px;
+  position: 200px;
   border: 2px solid;
   background-color: #d2d2d2;
   border-radius: 15px;
