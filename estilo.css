@@ -54,7 +54,9 @@ input[type=text], input[type=password] {
   box-sizing: border-box;
   border-radius: 4px;
 }
-
+#title {
+  font-size: 20px;
+}
 label {
   font-size: 14px;
   font-weight: bold;
@@ -67,7 +69,7 @@ input[type=submit] {
   color: white;
   padding: 8px 10px;
   margin: 8px 0px;
-  border: solid #006cc5;
+  border: solid blue;
   cursor: poiner;
   width 40%;
 }
