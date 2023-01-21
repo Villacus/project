@@ -50,7 +50,7 @@ table {
 input[type=text], input[type=password] {
   width: 100%;
   padding: 8px 20px;
-  border: 2px solid blue;
+  border: 2px solid #006cc5;
   box-sizing: border-box;
   border-radius: 4px;
 }
@@ -67,7 +67,7 @@ input[type=submit] {
   color: white;
   padding: 8px 10px;
   margin: 8px 0px;
-  border: solid;
+  border: solid #006cc5;
   cursor: poiner;
   width 40%;
 }
