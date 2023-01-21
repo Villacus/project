@@ -41,3 +41,54 @@ footer {
   background: grey;
 }
 
+table {
+  border: 2px solid;
+  background-color: #d2d2d2;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 8px 20px;
+  border: 2px solid grey;
+  box-sizing: border-box;
+}
+label {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: arial;
+}
+
+input[type=submit] {
+  backgroun-color: ;
+  color: white;
+  padding: 8px 10px;
+  margin: 8px 0px;
+  border: solid;
+  cursor: poiner;
+  width 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
