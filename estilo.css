@@ -18,6 +18,8 @@ nav ul {
 
 
 .eskubi {
+  position: absolute;
+  right: 100px;
   float: right;
   font-family: Arial, sans-serif;
   font-size: 25px;
