@@ -2,13 +2,6 @@ body {
   margin: 0;
 }
 
-table {
-  margin: 150px auto;
-  border: 2px solid;
-  background-color: #d2d2d2;
-  border-radius: 15px;
-}
-
 header {
   margin-top: 0px;
   background: #6c6c6c;
@@ -51,6 +44,13 @@ nav ul li:hover {
 
 nav ul li img :hover {
   background: #6c6c6c;
+}
+
+table {
+  margin: 150px;
+  border: 2px solid;
+  background-color: #d2d2d2;
+  border-radius: 15px;
 }
 
 footer {
