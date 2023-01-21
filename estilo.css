@@ -4,7 +4,9 @@ header {
   width: 100%;
   position: fixed;
 }
-
+.hasi {
+  float: right;
+}
 nav {
   float: left;
 }
