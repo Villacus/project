@@ -4,7 +4,7 @@ body {
 
 table {
   posion: fixed;
-  top: 150px;
+  margin-top: 150px;
   border: 2px solid;
   background-color: #d2d2d2;
   border-radius: 15px;
