@@ -1,45 +1,36 @@
 <html>
-    <head>
-    <link rel="stylesheet" href="estilo.css" type="text/css">
-</head>
-<body>
+	<head>
+		<link rel="stylesheet" href="estilo.css" type="text/css">
+	</head>
+	<body>
     <header>
-        <nav>
-            <ul>
-	    	 <li><a href="#">Etxea</a></li>
-    		 <li><a href="login.html">Hadi saioa</a></li>
-	         <li><a href="#">Cursos</a></li>
-		 <li><a href="#">Bootcamps</a></li>
-	         <li><a href="#">Contacto</a></li>
-                <li><a href="https://www.antigua-luberri.net/es/"><img src="Logo_Antigua-Luberri.png" hight="95" width="60"></a></li>
-            </ul>
+      <nav>
+        <ul>
+	    	  <li><a href="#">Etxea</a></li>
+    		  <li><a href="login.html">Hadi saioa</a></li>
+	        <li><a href="#">Cursos</a></li>
+		      <li><a href="#">Bootcamps</a></li>
+	        <li><a href="#">Contacto</a></li>
+          <li><a href="https://www.antigua-luberri.net/es/"><img src="Logo_Antigua-Luberri.png" hight="95" width="60"></a></li>
+        </ul>
       </nav>
-</header>
-<h1>Zerbait komunikatu nahi badezu taula hau idatzi ezazu</h1>
-<div class="kontaktua">
-    <div class="name">
+	</header>
+
+		<h1>Zerbait komunikatu nahi badezu taula hau idatzi ezazu</h1>
+		<table class="kontaktua">
+    	<tr><td class="name">
         <form action="https://formsubmit.co/ikoiervillanueva@antigua-luberri.net" method="POST" />
-        <label for="name">Izena:</label>
-        <br>
-        <input id="name" name="name" type="text" required placeholder="Izena...">
-    </div>
-    <div class="emaila">
+				<label for="name">Izena:</label></td></tr>
+			<tr><td><input id="name" name="name" type="text" required placeholder="Izena..."></td></tr>
+	    <tr><td class="emaila">
         <form method="POST">
-        <label for="email">Emaila:</label>
-        <br>
-        <input id="email" name="email" type="email" required placeholder="Adb.:edk68131@gmail.com">
-    </div>
-    <br>
-    <div class="info">
+        <label for="email">Emaila:</label></td></tr>
+			<tr><td><input id="email" name="email" type="email" required placeholder="Adb.:edk68131@gmail.com"></td></tr>
+	    <tr><td class="info">
         <form method="POST">
-        <label for="info">Zer komunikatu nahi duzu:</label>
-        <br>
-        <textarea id="info" name="info" required rows="8" cols="60"></textarea>
-    </div>
-        <br>
-    <div>
-        <input type="submit" value="Bidali">
-    </div>
-</div>
-</body>
+        <label ="info">Zer komunikatu nahi duzu:</label></td></tr>
+        <tr><td><textarea id="info" name="info" required rows="8" cols="60"></textarea></td></tr>
+        <td><tr><input type="submit" value="Bidali"></td></tr>
+		</table>
+	</body>
 </html>
