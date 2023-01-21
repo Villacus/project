@@ -23,7 +23,7 @@ nav ul {
 
 .eskubi {
   position: absolute;
-  left: 500px;
+  left: 900px;
   float: right;
   font-family: Arial, sans-serif;
   font-size: 25px;
@@ -67,9 +67,7 @@ input[type=text], input[type=password], input[type=email], textarea {
   box-sizing: border-box;
   border-radius: 4px;
 }
-#title {
-  font-size: 20px;
-}
+
 label {
   font-size: 14px;
   font-weight: bold;
