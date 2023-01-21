@@ -45,7 +45,7 @@ table {
   border-radius: 15px;
 }
 
-input[type=text], input[type=password] {
+input[type=text], input[type=password], input[type=email] {
   width: 100%;
   padding: 8px 20px;
   border: 2px solid #008cff;
@@ -74,4 +74,5 @@ input[type=submit] {
 input[type=submit]:hover {
   background: #0080e9;
 }
+
 
