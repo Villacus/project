@@ -14,6 +14,10 @@ nav ul {
   overflow: hidden; 
 }
 
+nav ul .hasi {
+  float: right;
+}
+
 nav ul li {
   float: left;
   font-family: Arial, sans-serif;
@@ -31,10 +35,6 @@ nav ul li:hover {
 
 nav ul li img :hover {
   background: #6c6c6c;
-}
-
-.hasi {
-  float: right;
 }
 
 footer {
@@ -79,7 +79,3 @@ input[type=submit]:hover {
   background: #0080e9;
 }
 
-img {
-  float: right;
-  position fixied
-}
