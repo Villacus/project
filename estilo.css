@@ -34,7 +34,7 @@ nav ul li img :hover {
 }
 
 div .kontaktua {
-margin-top: 50px;  
+position: absolute 100px;  
 }
 
 footer {
