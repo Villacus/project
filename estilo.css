@@ -29,7 +29,6 @@ nav ul li {
 }
 nav ul li a {
   display: block;
-  padding: 10px;
   color: #fff;
   text-decoration: none;
 }
@@ -38,5 +37,5 @@ nav ul li:hover {
 }
 
 nav ul li img :hover {
-  background: ;
+  background: rgba(0,0,0,0.7);
 }
