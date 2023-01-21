@@ -2,6 +2,10 @@ body {
   margin: 0 auto;
 }
 
+div {
+  margin: 10px;
+}
+
 header {
   margin-bottom: 50px;
   background: #6c6c6c;
@@ -22,7 +26,6 @@ nav ul {
 
 .eskubi {
   position: fixed;
-  left: 85%;
   font-family: Arial, sans-serif;
   font-size: 25px;
 }
@@ -47,7 +50,6 @@ nav ul li img :hover {
 }
 
 table {
-  margin: 150px;
   border: 2px solid;
   background-color: #d2d2d2;
   border-radius: 15px;
