@@ -72,7 +72,7 @@ label {
   font-family: arial;
 }
 
-input[type=submit], .hasi {
+input[type=submit] {
   background-color: 008cff;
   border-radius: 20px;
   color: white;
@@ -82,6 +82,18 @@ input[type=submit], .hasi {
   cursor: poiner;
   width 40%;
 }
+
+.hasi {
+  background-color: 008cff;
+  border-radius: 20px;
+  color: white;
+  padding: 4px 6px;
+  margin: 4px 0px;
+  border: solid #008cff;
+  cursor: poiner;
+  width 40%;
+}
+
 input[type=submit]:hover {
   background: #0080e9;
 }
