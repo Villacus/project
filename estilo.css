@@ -4,10 +4,8 @@
 }
 
 div#header {
-  width: 960px;
+  width: 100%;
   margin: auto;
-  position: fixed;
-  z-index: 100;
   background-color: #6c6c6c;
 }
 
