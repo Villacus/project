@@ -4,8 +4,8 @@
 }
 
 div#header {
+  margin-top: 0px;
   width: 100%;
-  margin: auto;
   background-color: #6c6c6c;
 }
 
