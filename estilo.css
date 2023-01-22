@@ -21,6 +21,10 @@ div#right {
   margin-right: 10px;
 }
 
+div#table {
+  margin-top: 10px;
+}
+
 img {
   width: 28px;
 }
