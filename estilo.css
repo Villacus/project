@@ -4,10 +4,11 @@
 }
 
 div#header {
-  background: #6c6c6c;
-  width: 100%;
+  width: 960px;
+  margin: auto;
   position: fixed;
   z-index: 100;
+  background-color: #6c6c6c;
 }
 
 div#article {
