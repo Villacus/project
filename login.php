@@ -1,25 +1,30 @@
 <?php
+
 $dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
-$ddname = "test";
+$dbname = "test";
 
-$conn myaqli_connect($dbhost, $dbuser, $dbpass, $ddname);
-if (!$conn) {
+$conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
+if (!$conn) 
+{
 	die("No hay conexión: ".mysqli_connect_error());
 }
+
 $nombre = $_POST["txtusuario"];
-$pass = $_POST["tctpassword"];
+$pass = $_POST["txtpassword"];
 
-$query = mysqli_query ($conn, "SELECT * FROM login WHERE usuario = '".$nombre."' and password = '".$pass."'");
-$nr = mysqli_num_rows ($query);
+$query = mysqli_query($conn,"SELECT * FROM login WHERE usuario = '".$nombre."' and password = '".$pass."'");
+$nr = mysqli_num_rows($query);
 
-1f($nx ==1) {
-    //header ("Location: pagina.html")
-    echo "Bienvenido:" .$nombre;
+if($nr == 1)
+{
+	//header("Location: pagina.html")
+	echo "Bienvenido:" .$nombre;
 }
-else if ($nr == 0)
-	echo: "No ingreso";
+else if ($nr == 0) 
+{
+	//header("Location: login.html");
+	//echo "No ingreso"; 
+	echo "<script> alert('Error');window.location= 'login.html' </script>";
 }
-
-?>
