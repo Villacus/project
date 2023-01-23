@@ -42,6 +42,14 @@ div#article {
   background-color: grey;
 }
 
+div#articlesin {
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 960px;
+  height:800px;
+}
+
 div#footer {
   margin-bottom: 0px;
   width: 100%;
