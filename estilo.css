@@ -21,6 +21,10 @@ div#right {
   margin-right: 10px;
 }
 
+div#fixed {
+  position:fixed;
+}
+
 div#table {
   padding-top: 50px;
 }
