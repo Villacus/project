@@ -1,7 +1,10 @@
 <?php
 
-<?php
-header("Location: https://villacus.netlify.app/index.html");
-?>
+$name = $_POST['name'];
 
+$email = $_POST['email'];
+
+$Mensaje = $_POST['password'];
+
+return;
 ?>
