@@ -1,5 +1,5 @@
 <?php
 
-header("https://villacus.netlify.app/index.html");
+"https://villacus.netlify.app/index.html";
 
 ?>
