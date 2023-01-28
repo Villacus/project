@@ -128,3 +128,6 @@ input[type=submit]:hover {
   background: #0080e9;
 }
 
+output {
+    display: inline;
+}
