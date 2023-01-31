@@ -103,7 +103,7 @@ label {
   font-family: arial;
 }
 
-input[type=submit] {
+input[type=submit], input[type=button] {
   background-color: 008cff;
   border-radius: 20px;
   color: white;
