@@ -25,6 +25,12 @@ div#right {
   margin-right: 10px;
 }
 
+#user {
+  margin: 10px;
+  font-family: Times New Roman;
+  color: white
+}
+  
 div#fixed {
   padding-top: 20px;
 }
