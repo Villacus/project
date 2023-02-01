@@ -46,7 +46,7 @@ div#article {
   border-radius: 10px;
   padding: 20px;
   width: 960px;
-  height:800px;
+  height: auto;
   background-color: grey;
 }
 
@@ -126,7 +126,6 @@ input[type=submit], input[type=button] {
   background-color: 008cff;
   border-radius: 20px;
   color: white;
-
   border: solid #008cff;
   cursor: poiner;
   width 40%;
@@ -136,3 +135,14 @@ input[type=submit]:hover {
   background: #0080e9;
 }
 
+h1 {
+  
+}
+
+h2 {
+  
+}
+
+p {
+  
+}
