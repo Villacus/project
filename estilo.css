@@ -136,7 +136,7 @@ input[type=submit]:hover {
 }
 
 h1 {
-  margin: 4px;
+  margin: 1px auto 15px;
 }
 
 h2 {
@@ -146,5 +146,9 @@ h2 {
 p {
   padding: 10px 50px 20px;
   margin: 3px;
-  text-allign: justify;
+  text-align: justify;
+}
+
+img#img {
+  float:right;
 }
