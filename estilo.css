@@ -138,11 +138,13 @@ input[type=submit]:hover {
 h1 {
   margin: 1px auto 15px;
   color: white;
+  text-decoration: underline;
 }
 
 h2 {
   margin: 3px;
   color: white;
+  text-decoration: underline;
 }
 
 div#article p {
