@@ -139,12 +139,14 @@ h1 {
   margin: 1px auto 15px;
   color: white;
   text-decoration: underline;
+  font-size: 35px;
 }
 
 h2 {
   margin: 3px;
   color: white;
   text-decoration: underline;
+  font-size: 25px;
 }
 
 div#article p {
